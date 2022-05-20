@@ -1,0 +1,6 @@
+@media (min-size: 680px) {
+    #navbar {
+        left: 0;
+        visibility: visible;
+    }
+}
